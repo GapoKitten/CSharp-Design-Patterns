@@ -12,23 +12,30 @@ Here is the list of design patterns included in this repository. Checkmarks indi
 
 ### Creational Patterns
 *(Deals with object creation mechanisms)*
-* [ ] 01-Singleton
-* [ ] 02-Factory Method
-* [ ] *(...เพิ่มชื่อ Pattern อื่นๆ ลงไปได้เลย...)*
+* [x] [01-FactoryMethod-CatRoom](./01-FactoryMethod-CatRoom)
+* [x] [02-AbstractFactory-CatRoomType](./02-AbstractFactory-CatRoomType)
+* [x] [03-Builder-CatPackage](./03-Builder-CatPackage)
+* [x] [04-Prototype-CatSmartDecive](./04-Prototype-CatSmartDecive)
+* [x] [05-Singleton-CatHotelSystem](./05-Singleton-CatHotelSystem)
 
 ### Structural Patterns
 *(Deals with object composition and relationships)*
-* [ ] 06-Adapter
-* [ ] 07-Decorator
-* [ ] *(...เพิ่มชื่อ Pattern อื่นๆ ลงไปได้เลย...)*
+* [x] [06-Adapter-FoodCat](./06-Adapter-FoodCat)
+* [x] [07-Bridge-TypeCatFood](./07-Bridge-TypeCatFood)
+* [x] [08-Composite-CatService](./08-Composite-CatService)
+* [x] [09-Decorator-CatClothing](./09-Decorator-CatClothing)
+* [x] [10-Facade-CatRoomSystem](./10-Facade-CatRoomSystem)
+* [x] [11-Flyweight-CatVaccine](./11-Flyweight-CatVaccine)
+* [x] [12-Proxy-CatSmartDoor](./12-Proxy-CatSmartDoor)
 
 
 ### Behavioral Patterns
 *(Deals with communication and assignment of responsibilities between objects)*
-* [ ] 14-Mediator-CatFarm
+* [x] [13-ChainOfResponsibility-CatBento](./13-ChainOfResponsibility-CatBento)
+* [x] [14-Command-RobotCat](./14-Command-RobotCat)
 * [x] [15-Iterator-CatFarm](./15-Iterator-CatFarm) 
-* [ ] 16-Observer
-* [ ] *(...เพิ่มชื่อ Pattern อื่นๆ ลงไปได้เลย...)*
+* [x] [16-Mediator-CatIncubator](./16-Mediator-CatIncubator)
+* [ ] *(......)*
 
 
 ## 🚀 How to Run
