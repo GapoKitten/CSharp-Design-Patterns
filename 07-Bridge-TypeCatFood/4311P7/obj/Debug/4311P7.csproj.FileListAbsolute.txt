@@ -1,0 +1,7 @@
+C:\Users\POUND\source\repos\4311P7\4311P7\bin\Debug\4311P7.exe.config
+C:\Users\POUND\source\repos\4311P7\4311P7\bin\Debug\4311P7.exe
+C:\Users\POUND\source\repos\4311P7\4311P7\bin\Debug\4311P7.pdb
+C:\Users\POUND\source\repos\4311P7\4311P7\obj\Debug\4311P7.csproj.AssemblyReference.cache
+C:\Users\POUND\source\repos\4311P7\4311P7\obj\Debug\4311P7.csproj.CoreCompileInputs.cache
+C:\Users\POUND\source\repos\4311P7\4311P7\obj\Debug\4311P7.exe
+C:\Users\POUND\source\repos\4311P7\4311P7\obj\Debug\4311P7.pdb
