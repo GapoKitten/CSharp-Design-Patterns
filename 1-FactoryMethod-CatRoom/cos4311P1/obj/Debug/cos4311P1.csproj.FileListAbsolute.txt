@@ -1,7 +1,0 @@
-C:\Users\POUND\source\repos\cos4311P1\cos4311P1\bin\Debug\cos4311P1.exe.config
-C:\Users\POUND\source\repos\cos4311P1\cos4311P1\bin\Debug\cos4311P1.exe
-C:\Users\POUND\source\repos\cos4311P1\cos4311P1\bin\Debug\cos4311P1.pdb
-C:\Users\POUND\source\repos\cos4311P1\cos4311P1\obj\Debug\cos4311P1.csproj.AssemblyReference.cache
-C:\Users\POUND\source\repos\cos4311P1\cos4311P1\obj\Debug\cos4311P1.csproj.CoreCompileInputs.cache
-C:\Users\POUND\source\repos\cos4311P1\cos4311P1\obj\Debug\cos4311P1.exe
-C:\Users\POUND\source\repos\cos4311P1\cos4311P1\obj\Debug\cos4311P1.pdb
