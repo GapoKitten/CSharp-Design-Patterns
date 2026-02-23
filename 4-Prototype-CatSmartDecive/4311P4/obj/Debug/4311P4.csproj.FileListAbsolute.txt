@@ -1,7 +1,0 @@
-C:\Users\POUND\source\repos\4311P4\4311P4\bin\Debug\4311P4.exe.config
-C:\Users\POUND\source\repos\4311P4\4311P4\bin\Debug\4311P4.exe
-C:\Users\POUND\source\repos\4311P4\4311P4\bin\Debug\4311P4.pdb
-C:\Users\POUND\source\repos\4311P4\4311P4\obj\Debug\4311P4.csproj.AssemblyReference.cache
-C:\Users\POUND\source\repos\4311P4\4311P4\obj\Debug\4311P4.csproj.CoreCompileInputs.cache
-C:\Users\POUND\source\repos\4311P4\4311P4\obj\Debug\4311P4.exe
-C:\Users\POUND\source\repos\4311P4\4311P4\obj\Debug\4311P4.pdb
