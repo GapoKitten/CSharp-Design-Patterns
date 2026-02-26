@@ -35,7 +35,10 @@ Here is the list of design patterns included in this repository. Checkmarks indi
 * [x] [14-Command-RobotCat](./14-Command-RobotCat)
 * [x] [15-Iterator-CatFarm](./15-Iterator-CatFarm) 
 * [x] [16-Mediator-CatIncubator](./16-Mediator-CatIncubator)
-* [ ] *(......)*
+* [ ] [17-Memento-Booking](./17-Memento-Booking)
+* [ ] [18-Observer-CatShelter](./18-Observer-CatShelter)
+* [ ] [19-State-StrayCat](./19-State-StrayCat)
+* [ ] 
 
 
 ## 🚀 How to Run
