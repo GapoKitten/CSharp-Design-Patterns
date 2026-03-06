@@ -38,7 +38,9 @@ Here is the list of design patterns included in this repository. Checkmarks indi
 * [x] [17-Memento-Booking](./17-Memento-Booking)
 * [x] [18-Observer-CatShelter](./18-Observer-CatShelter)
 * [x] [19-State-StrayCat](./19-State-StrayCat)
-* [][....] 
+* [x] [20-Strategy-Huntstrategy](./20-Strategy-Huntstrategy)
+* [x] [21-Template-CatLitterRoutine](./21-Template-CatLitterRoutine)
+* [x] [22-Visitor-GroomVet](./22-Visitor-GroomVet)
 
 
 ## 🚀 How to Run
